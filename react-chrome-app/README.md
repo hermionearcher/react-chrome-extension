@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Followed this article
+
+[Article](https://web-highlights.com/blog/how-to-build-a-chrome-extension-using-react/).
+[Repo]](https://github.com/MariusBongarts/react-chrome-extension).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
